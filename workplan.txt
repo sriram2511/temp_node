@@ -1,0 +1,33 @@
+Weeks 1-2: JavaScript Basics
+
+Days 1-4: Variables, data types, operators, and basic control structures.
+Days 5-8: Functions, arrays, and objects.
+Days 9-12: Asynchronous JavaScript, callbacks, promises, and async/await.
+Weeks 3-4: Node.js Fundamentals
+
+Days 13-16: Introduction to Node.js, setting up a basic server.
+Days 17-20: Handling HTTP requests, understanding the event loop.
+Days 21-25: Introduction to npm, working with modules.
+Days 26-30: Basic Express.js usage.
+Weeks 5-6: Advanced JavaScript Concepts
+
+Days 31-35: Closures, the prototype chain, and advanced functions.
+Days 36-40: Understanding the event loop in depth.
+Weeks 7-9: Angular Basics
+
+Days 41-45: Introduction to Angular, components, modules, and templates.
+Days 46-50: Services, dependency injection, and two-way data binding.
+Days 51-55: Routing in Angular.
+Weeks 10-12: Node.js and Angular Integration
+
+Days 56-60: Connecting Angular with Node.js.
+Days 61-65: Building a simple full-stack application.
+Weeks 13-16: Advanced Angular Concepts and Projects
+
+Days 66-70: Forms, reactive programming in Angular.
+Days 71-75: Unit testing in Angular.
+Days 76-80: Building more complex projects and exploring the Angular ecosystem.
+Weeks 17-20: Practice and Real-world Projects
+
+Days 81-85: Start working on personal projects or contribute to open source projects.
+Days 86-90: Regularly review and reinforce your learning.
